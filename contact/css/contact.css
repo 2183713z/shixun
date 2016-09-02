@@ -1,0 +1,249 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	height: 232px;
+}
+nav{
+	height: 62px;
+	border:1px solid #e4e4e4;
+	background-color: #fff;
+}
+nav .nav_inner{
+	width: 960px;
+	height: 62px;
+	margin: 0 auto;
+}
+nav .nav_inner ul {
+	height: 62px;
+}
+nav .nav_inner ul li {
+	width: 191px;
+	height: 62px;
+	float: left;
+	list-style: none;
+	font-family: arial;
+	font-size: 10px;
+	text-align: center;
+	line-height: 62px;
+	border-left: 1px solid #e5e5e5;
+}
+nav .nav_inner ul .teshu {
+	border-right:1px solid #e5e5e5;
+}
+nav .nav_inner ul li a {
+	width: 190px;
+	height: 62px;
+	text-decoration: none;
+	color: #272727;
+	display: block;
+}
+nav .nav_inner ul li a:hover{
+	background-color: #c32300;
+}
+header .logo{
+	height: 139px;
+	background-image: url(../images/logobeijing_03.jpg);
+}
+header .logo_inner {
+	width: 960px;
+	height: 139px;
+	margin: 0 auto;
+}
+header .logo_text  {
+	width: 251px;
+	height: 88px;
+	float: left;
+}
+header .logo_text img {
+	float: left;
+	padding-left: 46px;
+	padding-top: 19px;
+}
+header .logo_text h1{
+	font-family: arial;
+	font-size: 38px;
+	color: #3e3e3e;
+	float: left;
+	padding-top: 51px;
+	padding-left: 2px;
+}
+header .logo_text h1 span {
+	color: #ff6800;
+}
+header .logo_search{
+	width: 709px;
+	height: 88px;
+	float: left;
+}
+header .logo_search img {
+	padding-left: 434px;
+	padding-top: 52px;
+}
+header .banner{
+	height: 30px;
+	background-image: url(../images/banner_03.jpg);
+}
+section{
+	height: 466px;
+	background-image: url(../images/section_03.jpg);
+}
+section .main_inner{
+	width: 960px;
+	height: 466px;
+	margin: 0 auto;
+}
+section .main_inner .main_left {
+	width: 630px;
+	height: 466px;
+	float: left;
+	margin-right: 43px;
+}
+section .main_inner .main_left p {
+	font-family: Helvetica;
+	font-size: 15px;
+	color: #272727;
+	padding-top: 50px;
+	padding-bottom: 21px;
+	font-weight: bold;
+}
+section .main_inner .main_left .leftpadding1{
+	padding-right: 25px;
+}
+section .main_inner .main_left .leftpadding2{
+	padding-right: 27px;
+}
+section .main_inner .main_left .leftpadding3{
+	padding-right: 9px;
+
+}
+section .main_inner .main_left .one 
+{
+	font-family: arial;
+	font-size: 10px;
+	color: #808080;
+	margin-bottom: 5px;
+}
+
+section .main_inner .main_left .one input {
+	width: 515px;
+	height: 35px;
+}
+section .main_inner .main_left .two{
+	font-family: arial;
+	font-size: 10px;
+	color: #808080;
+	margin-bottom: 5px;
+}
+section .main_inner .main_left .two input {
+	width: 515px;
+	height: 35px;
+}
+section .main_inner .main_left .three{
+	font-family: arial;
+	font-size: 10px;
+	color: #808080;
+
+}
+section .main_inner .main_left .three textarea{
+	width: 515px;
+	height: 215px;
+}
+section .main_inner .main_left a {
+	text-decoration: none;
+	color: #fcffef;
+	font-family: arial;
+	font-size: 10px;
+	width: 100px;
+	height: 25px;
+	display: block;
+	background-color: #d43400;
+	text-align: center;
+	line-height: 25px;
+	margin-top: 9px;
+}
+section .main_inner .main_left .qing0{
+	float: left;
+	margin-right: 11px;
+	margin-left: 419px;
+}
+section .main_inner .main_left .fasong {
+	float: left;
+}
+section .main_inner .main_right {
+	width: 287px;
+	height: 466px;
+	float: left;
+}
+section .main_inner .main_right p {
+	font-family: arial;
+	font-size: 15px;
+	color: #272727;
+	padding-top: 50px;
+	padding-bottom: 232px;
+}
+section .main_inner .main_right font {
+	font-family: arial;
+	font-size: 13px;
+	color: #808080;
+}
+section .main_inner .main_right .free{
+	padding-top: 10px;
+	padding-bottom: 6px;
+}
+section .main_inner .main_right .tel{
+	padding-top: 6px;
+	padding-bottom: 7px;
+}
+section .main_inner .main_right .chuanzhen {
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+section .main_inner .main_right .youxiang {
+	padding-top: 7px;
+}
+section .main_inner .main_right .youxiang a{
+	
+	color: #d63400;
+}
+footer{
+	height: 127px;
+	background-color: #fff;
+	border-top: 1px solid #e4e4e4;
+}
+footer .footer_inner {
+	width: 960px;
+	height: 127px;
+	margin: 0 auto;
+}
+footer .t1{
+	font-family: arial;
+	font-size: 10px;
+	color: #8797af;
+	padding-top: 30px;
+	padding-left: 0px;
+	text-align: center;
+	padding-bottom: 15px;
+}
+footer .t2{
+	font-family: arial;
+	font-size: 13px;
+	color: #8797af;
+	text-align: center;
+	padding-bottom: 12px;
+}
+footer .t2 a {
+	text-decoration: none;
+	color: #d43400;
+}
+footer .t3{
+	font-family: arial;
+	font-size: 13px;
+	color: #8797af;
+	text-align: center;
+}
+footer .t3 a {
+	
+	color: #d43400;
+}
